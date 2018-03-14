@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5b7b3e2f8053b4eb11ac212f0df7ac, type: 3}
+  m_Name: Eatable Dough
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300088, guid: 194c4d21a25825d4481bdddc2c6d9b9b, type: 3}
+  useScripts:
+  - {fileID: 11400000, guid: 5a63bb38b65e4944caec493601e10010, type: 2}
+  - {fileID: 11400000, guid: 5a63bb38b65e4944caec493601e10010, type: 2}
+  - {fileID: 11400000, guid: edc4b1f56324cac4ab7303b44578fe57, type: 2}
